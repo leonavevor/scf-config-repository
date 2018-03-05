@@ -21,7 +21,7 @@ spring:
    uri: https://github.com/leonavevor/scf-config-repository.git
        
     
- 
+  
 spring:
   cloud:
    config:
